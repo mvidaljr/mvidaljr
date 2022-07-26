@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mvidaljr
 - 👀 I’m interested in become a Data Scientist
-- 🌱 I’m currently learning Python, R, and Data Visualization
-- 💞️ I’m looking to collaborate on creating Data using Python, R and some visualization tools like PowerBI and Tableau
+- 🌱 I’m currently learning Python, R, and Data Visualization, Machine Learning
+- 💞️ I’m looking to collaborate on creating Data using Python and some visualization tools like PowerBI
 - 📫 How to reach me mvidaljr@sempreceub.com
 
 <!---
