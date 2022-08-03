@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @mvidaljr
-- 👀 I’m interested in become a Data Scientist
-- 🌱 I’m currently learning Python, R, and Data Visualization, Machine Learning
-- 💞️ I’m looking to collaborate on creating Data using Python and some visualization tools like PowerBI
-- 📫 How to reach me mvidaljr@sempreceub.com
+- Hi, I’m @mvidaljr
+- I’m a Data Scientist
+- I’m currently learning Python, Machine Learning, R, and Data Visualization
+- I’m looking to collaborate on creating Data/ML using Python and some visualization tools like PowerBI
+- LinkedIn: https://www.linkedin.com/in/moacir-vidal-7ba20717/
+- Medium: https://medium.com/@mvidaljr
 
 <!---
 mvidaljr/mvidaljr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
