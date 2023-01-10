@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 ## I am a Data Scientist who loves math, programming and books!!
 
 - 💻 I’m a Data Scientist
-- 📈 I’m addicted to learning Python, Machine Learning, R, SaS, and Data Visualization
+- 📈 I’m addicted to learning Python, Machine Learning, Deep Learning, SaS, and Data Visualization
 - 📊 I’m looking to collaborate with other Data Scientists and developers 
 
 ### Connect with me:
