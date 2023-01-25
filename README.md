@@ -52,7 +52,7 @@ __Machine Learning/Deep Learning__ \
 
 <!-- BLOG-POST-LIST:START -->
 * [Vantagens de Usar GridSearch ou RandomSearch no Seu Algoritmo de Predição](https://medium.com/@mvidaljr/advantages-of-using-gridsearch-or-randomsearch-in-your-prediction-algorithm-c9b8f78911f9) 
-* [Principais Funções Estatísticas em Ciência de Dados](https://medium.com/@mvidaljr/main-statistical-functions-in-data-science-project-398548d79ded)
+* [Main Statistical Functions in Data Science Project](https://medium.com/@mvidaljr/main-statistical-functions-in-data-science-project-398548d79ded)
 * [How to increase the accuracy of your Machine Learning project](https://medium.com/@mvidaljr/how-to-increase-the-accuracy-of-your-machine-learning-project-af13ecb3cd46)
 
 
