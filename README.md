@@ -54,6 +54,7 @@ __Machine Learning/Deep Learning__ \
 * [Advantages of Using GridSearch or RandomSearch in Your Prediction Algorithm](https://medium.com/@mvidaljr/advantages-of-using-gridsearch-or-randomsearch-in-your-prediction-algorithm-c9b8f78911f9) 
 * [Main Statistical Functions in Data Science Project](https://medium.com/@mvidaljr/main-statistical-functions-in-data-science-project-398548d79ded)
 * [How to increase the accuracy of your Machine Learning project](https://medium.com/@mvidaljr/how-to-increase-the-accuracy-of-your-machine-learning-project-af13ecb3cd46)
+* [Reconhecimento Facial na Identificação de Responsáveis por Racismo e Violência em Estádios]([https://medium.com/@mvidaljr/how-to-increase-the-accuracy-of-your-machine-learning-project-af13ecb3cd46](https://medium.com/@mvidaljr/utiliza%C3%A7%C3%A3o-do-reconhecimento-facial-para-identificar-os-respons%C3%A1veis-por-racismo-e-viol%C3%AAncia-em-4be1dee3c54c)https://medium.com/@mvidaljr/utiliza%C3%A7%C3%A3o-do-reconhecimento-facial-para-identificar-os-respons%C3%A1veis-por-racismo-e-viol%C3%AAncia-em-4be1dee3c54c)
 
 
 
